@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f8f9fa;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+/* Keep all chart container, table, search input styles here */
+.chart-container { /* ... */ }
+.search-container { /* ... */ }
+.back-btn { /* ... */ }
