@@ -7,7 +7,7 @@ export default defineConfig({
     port: 5173,
     proxy: {
       '/api': {
-        target: 'https://your-backend-service.onrender.com', // backend URL
+        target: 'https://wxwbbb.onrender.com', // backend URL
         changeOrigin: true,
         rewrite: path => path.replace(/^\/api/, '')
       }
@@ -18,3 +18,4 @@ export default defineConfig({
   },
   base: '/' // Ensure correct paths in Render
 })
+
