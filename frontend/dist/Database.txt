@@ -1,4 +1,1 @@
-wechat:
-  appid: wxa688c00d227f8bbc
-  secret: 6419aadefa5d767ac93e868c0d201449
-  token: nq0JvcNVtKs6CGoJ
+
